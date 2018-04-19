@@ -1,6 +1,8 @@
 ---
 title: 使用node-ffi调用dll动态库
 date: 2018-03-25
+categories:
+- node
 tags: 
 - node-ffi
 autoThumbnailImage: yes

@@ -1,6 +1,8 @@
 ---
 title: 搭建shadowsocks
 date: 2018-02-10
+categories:
+- 工具
 tags: 
 - shadowsocks
 autoThumbnailImage: yes
